@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OrderSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShippingAdress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ShopItem6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Singup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
