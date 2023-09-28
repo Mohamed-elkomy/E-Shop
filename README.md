@@ -50,7 +50,7 @@ If you would like to contribute to the development of this project, you can do s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License - see the [GNU GENERAL PUBLIC LICENSE](LICENSE) file for more details.
 
 ---
 
